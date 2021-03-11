@@ -27,12 +27,12 @@ Github supports relative weblinks ...
 
 ## Meetings
 
-For documentation of meetings and/or links to meeting videos go to [Metadata/Meetings](/Metadata/Meetings). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
+For documentation of meetings and/or links to meeting videos go to [Meetings](/Meetings). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
 
 ## Documents
 
-For documentation of the metadata subject go to [Metadata/Documents](/Metadata/Documents/). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
+For documentation of the metadata subject go to [Documents](/Documents/). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
 
 ## Developers
 
-For development of the metadata subject go to [Metadata/Development](/Metadata/Development/). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
+For development of the metadata subject go to [Development](Development/). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
