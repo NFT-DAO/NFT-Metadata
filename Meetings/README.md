@@ -6,11 +6,11 @@ This is a list of links to NFT-DAO meeting videos and documents
 
 [March 2021](#March-2021)
 
-[3rd March, 2021 General NFT DAO Meeting](#3rd-March)
+* [3rd March, 2021 General NFT DAO Meeting](#3rd-March)
 
-[9th March, 2021, General Discussions](#9th-March)
+* [9th March, 2021, General Discussions](#9th-March)
 
-[10th March, 2021, General Discussions](#10th-March)
+* [10th March, 2021, General Discussions](#10th-March)
 
 ## March 2021
 
