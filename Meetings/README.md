@@ -13,4 +13,8 @@ This is what an inline link to a Youtube video would look like (*this example sh
 
 * [9th March, 2021, General Discussions, Subject : Metadata github use and development](2021-03-09-Metadata-github.md)
 
+Possible one sentence summary under each inline meeting link.
+
 * [10th March, 2021, General Discussions, Subject : Metadata github use and development](2021-03-10-Metadata-github.md)
+
+Possible one sentence summary under each inline meeting link
