@@ -4,7 +4,7 @@ This is a list of links to NFT-DAO meeting videos and documents
 
 # Contents
 
-[March 2021](##March 2021)
+[March 2021](#March-2021)
 
 [3rd March, 2021 General NFT DAO Meeting](#an-intial-metadata-proposal)
 
