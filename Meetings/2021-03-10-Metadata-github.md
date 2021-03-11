@@ -8,5 +8,5 @@
 
 Type | Description | Owner | Deadline
 ---- | ---- | ---- | ----
-Discussion | Michael and Stephen continued their discussion on how github (and similar tools) could be used to capture content on the Metadata channel on the NFT-DAO Discord Server.<br><br><ol><li>Michael mentioned Bitbucket(?), Trello as tools to complement github.</li><li>Michael suggested using the **github discussions** feature in each Repository</li><li>Stephen agreed to move over the draft markdown on his github to the NFT-DAO github.</li></ol> | #OWNER# | #DEADLINE#
-Action | Michael and Stephen agreed to meet via Zoom on 10th March 2021 to whiteboard these ideas.| Michael, Stephen | 11th March 2021
+Discussion | Michael and Stephen continued their discussion on how github (and similar tools) could be used to capture content on the Metadata channel on the NFT-DAO Discord Server.<br><br> | #OWNER# | #DEADLINE#
+Action | Stephen agreed to move over the draft markdown on his github to the NFT-DAO github| Stephen | 11th March 2021
