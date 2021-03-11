@@ -6,7 +6,8 @@ This is a list of links to NFT-DAO meeting videos and documents
 
 [March 2021](#March-2021)
 
-[3rd March, 2021 General NFT DAO Meeting](#an-intial-metadata-proposal)
+[3rd March, 2021 General NFT DAO Meeting](#3rd March, 2021 General NFT DAO Meeting)
+[10th March, 2021, General Discussions](#10th March, 2021, General Discussions)
 
 ## March 2021
 
@@ -25,6 +26,8 @@ This is what an inline link to a Youtube video would look like (*this example sh
 
 Possible one sentence summary under each inline meeting link.
 
-* [10th March, 2021, General Discussions, Subject : Metadata github use and development](2021-03-10-Metadata-github.md)
+### 10th March, 2021, General Discussions
+
+[10th March, 2021, General Discussions, Subject : Metadata github use and development](2021-03-10-Metadata-github.md)
 
 Possible one sentence summary under each inline meeting link
