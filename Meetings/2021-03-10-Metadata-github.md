@@ -10,4 +10,4 @@ Type | Description | Owner | Deadline
 ---- | ---- | ---- | ----
 Discussion | Michael and Stephen continued their discussion on how github (and similar tools) could be used to capture content on the Metadata channel on the NFT-DAO Discord Server. Michael suggested [gitbook](https://www.gitbook.com/) for development documentation.<br><br> | #OWNER# | #DEADLINE#
 Action | Stephen agreed to move over the draft markdown on his github to the NFT-DAO github.| Stephen | 11th March 2021 - COMPLETED
-Action | Stephen agreed to test transfer markdown record of Discord channel to a github discussion thread.| Stephen | 11th March 2021
+Action | Stephen agreed to test transfer markdown record of Discord channel to a github discussion thread.| Stephen | 11th March 2021  - COMPLETED
