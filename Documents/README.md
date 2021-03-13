@@ -3,4 +3,4 @@
 
 ## Key Documents
 
-* The original proposal :  [NFT-DAO NFT metadata standards](/NFT-DAO-NFT-metadata-standards.md).
+* The original proposal :  [NFT-DAO NFT metadata standards](NFT-DAO-NFT-metadata-standards.md).
