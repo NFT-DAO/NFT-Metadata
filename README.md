@@ -1,4 +1,4 @@
-# DAO NFT-Metadata
+# NFT-DAO Metadata
 
 ## Discussions
 
@@ -20,3 +20,7 @@ For documentation of the metadata subject go to [Documents](/Documents/). Each f
 ## Developers
 
 For development of the metadata subject go to [Development](Development/). Each folder will have its own README to guide users further. Each sections description should be no more than a few sentences.
+
+## Licensing
+
+See [LICENSE](LICENSE.txt) file. NFT-DAO Metadata is licensed by NFT-DAO LCC under the Apache license. 
