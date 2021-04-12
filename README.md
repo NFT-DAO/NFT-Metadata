@@ -1,3 +1,5 @@
+[![GitHub issues](https://img.shields.io/github/issues/NFT-DAO/NFT-Metadata?style=flat-square)](https://github.com/NFT-DAO/NFT-Metadata/issues)
+[![GitHub milestones](https://img.shields.io/github/milestones/open/NFT-DAO/NFT-Metadata?style=flat-square)](https://github.com/NFT-DAO/NFT-Metadata/milestones)
 # NFT-DAO Metadata
 
 ## Discussions
